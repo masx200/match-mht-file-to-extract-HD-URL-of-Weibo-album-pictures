@@ -1,0 +1,23 @@
+{
+  "name": "match-mht-file-to-extract-HD-URL-of-Weibo-album-pictures",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masx200/match-mht-file-to-extract-HD-URL-of-Weibo-album-pictures.git"
+  },
+  "author": "masx200 <masx200@qq.com>",
+  "license": "MIT",
+  "description": "匹配mht文件提取微博相册图片高清网址",
+  "bugs": {
+    "url": "https://github.com/masx200/match-mht-file-to-extract-HD-URL-of-Weibo-album-pictures/issues"
+  },
+  "homepage": "https://github.com/masx200/match-mht-file-to-extract-HD-URL-of-Weibo-album-pictures#readme",
+  "scripts": {
+    "start":"node ./从本地获取微博图片相册匹配mht提取图片网址并输出mw2000.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "find": "^0.3.0"
+  }
+}
